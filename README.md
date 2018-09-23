@@ -1,0 +1,1 @@
+# skypool-xmr-miner
